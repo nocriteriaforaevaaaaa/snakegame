@@ -19,10 +19,16 @@
     height: 92vmin;
     border: 2px solid black;
     font-size: 100px;
-    font-family: 'Times New Roman', Times, serif;
+    /* font-family: 'Times New Roman', Times, serif; */
     /* justify-content: center;
     display: flex; */
     display:grid;
     grid-template-rows: repeat(18,1fr);
     grid-template-columns: repeat(18,1fr);
+ }
+ .head{
+    background-color: red;
+ }
+ .food{
+    background-color: black;
  }
