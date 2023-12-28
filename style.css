@@ -29,7 +29,10 @@
  .head{
     background-color: red;
  }
+ .snake{
+   background-color: yellow;
+ }
  .food{
     background-color: black;
-    
+
  }
